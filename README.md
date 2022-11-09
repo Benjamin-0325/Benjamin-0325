@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Benjamin Chen
-- 👀 I’m interested in Biomechanics and artificial intelligence.
-- 🌱 I’m currently learning HTML5 and CSS.
+- 👀 I’m interested in Biomechanics, artificial intelligence, UIUX design, and software development.
+- 🌱 I’m currently learning backend development.
 - 📫 How to reach me ... 0325poyan@gmail.com
 
 <!---
